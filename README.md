@@ -3,8 +3,12 @@ This repository is my own notes for Python for Data Science and Machine Learning
 
 Module | Time :clock9: | Lectures | Finished
 :------------ | :-------------| :-------------| :-------------
-Introduction and Setup | ~ 45 min | 7 | :white_check_mark:
+Introduction and Setup | ~ 45 min | 7 | :heavy_check_mark:
 Python Crash Course | > 1 hr | 8 | :black_square_button:
 Numpy | > 1 hr | 8 | :black_square_button:
 Pandas | > 2 hr | 11 + 5 | :black_square_button:
-Matplotlib | > 1 hr | 7 | :black_square_button:
+Seaborn | > 1.3 hr | 9 | :black_square_button:
+DV Pandas Built-in | > ~30 min | 3 | :black_square_button:
+Plotly and cufflinks | ~30 min | 3 | :black_square_button:
+Geographical Plotting | > 30 min | 5 | :black_square_button:
+Data Capstone Project | > 1 hr | 9 | :black_square_button:
