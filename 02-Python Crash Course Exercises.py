@@ -14,9 +14,7 @@
 
 # In[1]:
 
-
 7 ** 4
-
 
 # ** Split this string:**
 # 
@@ -26,9 +24,7 @@
 
 # In[3]:
 
-
 s = "Hi there Sam!"
-
 
 # In[4]:
 
@@ -74,10 +70,6 @@ lst[3][1][2][0]
 
 # In[14]:
 
-
-
-
-
 # ** Given this nested dictionary grab the word "hello". Be prepared, this will be annoying/tricky **
 
 # In[15]:
@@ -94,14 +86,9 @@ d['k1'][3]['tricky'][3]['target'][3]
 
 # In[22]:
 
-
-
-
-
 # ** What is the main difference between a tuple and a list? **
 
 # In[23]:
-
 
 # 1
 # Tuple is immutable
@@ -215,10 +202,6 @@ list(x)
 
 # In[ ]:
 
-
-
-
-
 # ### Final Problem
 # **You are driving a little too fast, and a police officer stops you. Write a function
 #   to return one of 3 possible results: "No ticket", "Small ticket", or "Big Ticket". 
@@ -240,23 +223,16 @@ def caught_speeding(speed, is_birthday):
         return 'Big Ticket'
     
 
-
 # In[32]:
-
 
 caught_speeding(91,True)
 
-
 # In[33]:
-
 
 caught_speeding(81,True)
 
-
 # In[34]:
 
-
 caught_speeding(81,False)
-
 
 # # Great job!
