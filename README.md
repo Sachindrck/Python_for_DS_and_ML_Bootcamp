@@ -12,3 +12,4 @@ DV Pandas Built-in | > ~30 min | 3 | :black_square_button:
 Plotly and cufflinks | ~30 min | 3 | :black_square_button:
 Geographical Plotting | > 30 min | 5 | :black_square_button:
 Data Capstone Project | > 1 hr | 9 | :black_square_button:
+Linear Regression | > 1 hr | 9 | :black_square_button:
